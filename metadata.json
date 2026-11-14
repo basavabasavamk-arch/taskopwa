@@ -1,0 +1,6 @@
+{
+  "name": "Tasko Dukaan Seller - ವ್ಯಾಪಾರಿ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "description": "Tasko Dukaan Seller Business Dashboard for managing products, live orders, customer ratings, and smart khata book (ledger) in Kannada and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
